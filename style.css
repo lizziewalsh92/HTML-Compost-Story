@@ -31,11 +31,12 @@ html, body {
 img { width: 100%;
   }
 
-#chart {padding: 5px;
+#datawrapper-chart-tHN78 {padding: 5px;
+     
        border: 3px #18a1cd;
        display: block;
-  margin-left: auto;
-  margin-right: auto;}
+       margin-left: auto;
+       margin-right: auto;}
 
 
 /*********************************************************************

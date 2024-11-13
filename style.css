@@ -30,7 +30,7 @@ html, body {
 img { width: 100%;
   }
 
-<p> {float: left}
+p {float: left}
 
 #chart {float: right}
 

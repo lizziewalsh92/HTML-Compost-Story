@@ -31,6 +31,8 @@ html, body {
 img { width: 100%;
   }
 
+#chart {padding: 5px;}
+
 
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE

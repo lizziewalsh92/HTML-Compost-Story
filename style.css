@@ -31,7 +31,11 @@ html, body {
 img { width: 100%;
   }
 
-#chart {padding: 5px;}
+#chart {padding: 5px;
+       border: 3px #18a1cd;
+       display: block;
+  margin-left: auto;
+  margin-right: auto;}
 
 
 /*********************************************************************

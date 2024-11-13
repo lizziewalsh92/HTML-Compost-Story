@@ -28,6 +28,8 @@ html, body {
 
 img { width: 100%;}
 
+
+
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
 *********************************************************************/
@@ -35,6 +37,9 @@ img { width: 100%;}
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 }
+
+#chart { max-width:600;
+       }
 
 /*********************************************************************
   YOUR DESKTOP-ONLY STYLES GO HERE

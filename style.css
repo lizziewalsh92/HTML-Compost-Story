@@ -27,7 +27,12 @@ html, body {
 
 .quote {font-style: italic;}
 
-img { width: 100%;}
+img { width: 100%;
+  }
+
+<p> {float: left}
+
+#chart {float: right}
 
 
 

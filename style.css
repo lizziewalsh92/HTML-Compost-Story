@@ -28,7 +28,8 @@ html, body {
 
 .quote {font-style: italic;}
 
-.subhead {text-align: center;}
+.subhead {text-align: center;
+         float: center;}
 
 img { width: 100%;
   }

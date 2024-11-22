@@ -22,7 +22,7 @@ html, body {
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
-   padding: 20px;
+   padding: 40px;
    background-color: #f0b97a;
 }
 
@@ -32,11 +32,9 @@ h3 {text-align: center;
    display: block;
    margin: 0 auto;}
 
-.middlesub {text-align: center;
-         float: center;}
 
-img { width: 100%;
-  }
+img { width: 80%;
+ border: 5px }
 
 #datawrapper-chart-tHN78 {
     

@@ -22,7 +22,7 @@ html, body {
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
     font-size: 65px;
     font-family: 'Roboto', sans-serif;
-   padding: 40px;
+   padding: 10px;
    background-color: #f0b97a;
 }
 
@@ -40,7 +40,8 @@ img { width: 80%;
     
        display: block;
        margin-left: auto;
-       margin-right: auto;}
+       margin-right: auto;
+       padding: 30px}
 
 
 /*********************************************************************

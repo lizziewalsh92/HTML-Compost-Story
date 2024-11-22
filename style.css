@@ -28,7 +28,9 @@ html, body {
 
 .quote {font-style: italic;}
 
-h3 {text-align: center}
+h3 {text-align: center;
+   display: block;
+   margin: 0 auto;}
 
 .middlesub {text-align: center;
          float: center;}

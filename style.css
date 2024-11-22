@@ -52,7 +52,7 @@ img { width: 80%;
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 }
 
-#chart { max-width:700px;
+#chart { max-width:600px;
        }
 
 /*********************************************************************
@@ -62,3 +62,5 @@ img { width: 80%;
     /* Any adjustments for desktop and larger go here.
     Note these styles will be applied to anything 729px or larger -- so desktop */
 }
+#chart { max-width:600px;
+       }
